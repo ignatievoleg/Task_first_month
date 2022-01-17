@@ -1,0 +1,16 @@
+{
+  "name": "Task_first_month",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "@types/jest": "^27.4.0",
+    "init": "^0.1.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
